@@ -1,0 +1,7 @@
+D:\Downloads\SEDC\C# Homework\cas7\Class07\Exercise01\Exercise01\bin\Debug\Exercise01.exe.config
+D:\Downloads\SEDC\C# Homework\cas7\Class07\Exercise01\Exercise01\bin\Debug\Exercise01.exe
+D:\Downloads\SEDC\C# Homework\cas7\Class07\Exercise01\Exercise01\bin\Debug\Exercise01.pdb
+D:\Downloads\SEDC\C# Homework\cas7\Class07\Exercise01\Exercise01\obj\Debug\Exercise01.csprojAssemblyReference.cache
+D:\Downloads\SEDC\C# Homework\cas7\Class07\Exercise01\Exercise01\obj\Debug\Exercise01.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\C# Homework\cas7\Class07\Exercise01\Exercise01\obj\Debug\Exercise01.exe
+D:\Downloads\SEDC\C# Homework\cas7\Class07\Exercise01\Exercise01\obj\Debug\Exercise01.pdb
