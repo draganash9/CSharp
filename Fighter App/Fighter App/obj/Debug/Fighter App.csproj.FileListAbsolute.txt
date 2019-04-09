@@ -1,0 +1,10 @@
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\bin\Debug\Fighter App.exe.config
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\bin\Debug\Fighter App.exe
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\bin\Debug\Fighter App.pdb
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\bin\Debug\MyLibrary.dll
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\bin\Debug\MyLibrary.pdb
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\obj\Debug\Fighter App.csprojAssemblyReference.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\obj\Debug\Fighter App.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\obj\Debug\Fighter App.csproj.CopyComplete
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\obj\Debug\Fighter App.exe
+C:\Users\Goran\Desktop\SEDC ACADEMY\C#\C#Advanced\Fighter App\Fighter App\obj\Debug\Fighter App.pdb
