@@ -1,0 +1,6 @@
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\ClassLibrary\obj\Debug\ClassLibrary.pdb

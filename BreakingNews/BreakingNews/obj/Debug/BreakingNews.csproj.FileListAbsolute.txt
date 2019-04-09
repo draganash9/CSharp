@@ -1,0 +1,10 @@
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\bin\Debug\BreakingNews.exe.config
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\bin\Debug\BreakingNews.exe
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\bin\Debug\BreakingNews.pdb
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\bin\Debug\ClassLibrary.dll
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\bin\Debug\ClassLibrary.pdb
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\obj\Debug\BreakingNews.csprojAssemblyReference.cache
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\obj\Debug\BreakingNews.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\obj\Debug\BreakingNews.csproj.CopyComplete
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\obj\Debug\BreakingNews.exe
+C:\Users\Jovana\Desktop\CSharp\BreakingNews\BreakingNews\obj\Debug\BreakingNews.pdb
