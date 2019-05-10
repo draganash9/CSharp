@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <header>
+            <nav class="navbar navbar-dark bg-dark justify-content-left">
+                <nav class="nav nav-pills nav-fill">
+                    <a class="nav-item nav-link " href="#">HOME</a>
+                    <a class="nav-item nav-link active" href="#" id="weapons">WEAPONS</a>
+                    <a class="nav-item nav-link" href="#">CHALLENGES</a>
+                    <a class="nav-item nav-link" href="#">ALL ITEMS</a>
+                </nav>
+                <nav class="navbar navbar-dark bg-dark">
+                    <form class="form-inline">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-primary" type="submit">Search</button>
+                    </form>
+                </nav>
+            </nav>
+        </header>
+        <span class="span"></span>
+        <button type="button" class="btn btn-primary" id="quickSort">Quick</button>
+        <button type="button" class="btn btn-primary" id="btnSortByTable">Table</button>
+        <div class="dropdown">
+            <button class="dropbtn, btn btn-primary">Filter by rarity</button>
+            <div class="dropdown-content">
+                <a href="#" id="commonFilter">Common</a>
+                <a href="#" id="uncommonFilter">Uncommon</a>
+                <a href="#" id="rareFilter">Rare</a>
+                <a href="#" id="epicFilter">Epic</a>
+                <a href="#" id="legendaryFilter">Legendary</a>
+            </div>
+        </div>
+
+        <div id="stats" class="quickSort">
+        </div>
+        <div class="sortByTable">
+            <table class="table table-bordered" id="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Weapon</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Rarity</th>
+                        <th scope="col">DPS</th>
+                        <th scope="col">Damage</th>
+                        <th scope="col">ENV Damage</th>
+                        <th scope="col">Fire Rate</th>
+                        <th scope="col">Magazine</th>
+                        <th scope="col">Reload time</th>
+                    </tr>
+                </thead>
+                <tbody id="bodytable">
+
+                </tbody>
+            </table>
+
+        </div>
+
+        <div>
+            <table class="table table-bordered" id="table">
+                <thead id="theadRarity">
+                    <tr>
+                        <th scope="col">Weapon</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Rarity</th>
+                        <th scope="col">DPS</th>
+                        <th scope="col">Damage</th>
+                        <th scope="col">ENV Damage</th>
+                        <th scope="col">Fire Rate</th>
+                        <th scope="col">Magazine</th>
+                        <th scope="col">Reload time</th>
+                    </tr>
+                </thead>
+                <tbody id="sortByRarity">
+
+                </tbody>
+            </table>
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
